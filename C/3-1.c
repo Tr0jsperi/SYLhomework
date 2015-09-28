@@ -9,7 +9,7 @@ int main()
 	scanf("%d",&b);
 	c=a+b;
 	printf("\n%d",c);
-	/*have question here*/
+	//print two numbers with a ','' as a seperator
 	printf("Please enter a value :");
 	scanf("%d,%d",&a,&b);
 	c=a+b;
